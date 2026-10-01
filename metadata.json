@@ -1,0 +1,6 @@
+{
+  "name": "Sparsh Aundhakar Intelligence",
+  "description": "Smart AI homework-solving assistant for math, science, humanities, and languages with photo step-by-step solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
